@@ -1,0 +1,13 @@
+# Site settings
+title: Daniel Ni test
+email: daniel@danielni.me
+author: Daniel Ni
+description: "My personal site."
+baseurl: ""
+url: "http://danielni.me"
+google_analytics: 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
