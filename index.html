@@ -1,22 +1,9 @@
 ---
-layout: default
+layout: page
+title:
 ---
 
-<div class="home">
+<img src="/assets/profile.jpg" alt="This is me." style="width: 250px; float: left; padding-right: 30px;"/> 
 
-  <div class="posts">
-    {% for post in paginator.posts %}
-      <div class="post">
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-          <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-          <h3 class="h2 post-title">{{ post.title }}</h3>
-          <p class="post-summary">{{ post.summary }}</p>
-        </a>
-      </div>
-    {% endfor %}
-  </div>
 
-  {% include pagination.html %}
-
-  <!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
-</div>
+<p>Hi! I'm a junior majoring in Mathematics and Computer Science at Washington University in St. Louis. My passions are technology, programming, music, and Philadelphia sports. Feel free to <a href="http://danielni.me/contact">contact me</a> if you wanna chat about anything!</p>
