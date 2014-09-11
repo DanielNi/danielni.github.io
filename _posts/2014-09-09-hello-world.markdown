@@ -6,4 +6,4 @@ summary:    Welcome to my new personal website!
 categories: 
 ---
 
-Hi everyone! Welcome to my new personal site! As of now it's still a work in progress, but I'll start posting some more interesting stuff -- including blog posts, cool links, and projects I've done -- pretty soon.
+Hi everyone! Welcome to my new personal site! As of now it's still a work in progress, but I'll start posting some more interesting stuff pretty soon. For now, check out some [projects](http://www.danielni.me/projects) I've done or [talk to me](http://www.danielni.me/) about anything!

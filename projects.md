@@ -17,3 +17,6 @@ An original Android game, Saurus is a simple test of reflexes and agility. The e
 ### [Nothing Was the Soundboard](http://drakesoundboard.appspot.com/)
 
 For Drake fans only. Check out the highlights from his 2013 album Nothing Was the Same by choosing from the many faces of Aubrey Graham. (note: explicit language)
+
+<br/>
+Check out my [Github](https://www.github.com/DanielNi) to see all my projects!
