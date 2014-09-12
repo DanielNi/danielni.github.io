@@ -4,11 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
-I love being able to create things, and chances are I'm working on something right now. Here are some of the things I'm either working on right now or built in the past.
+I love being able to create things, and chances are I'm busy building something right now. Here are some of the things I'm either working on right now or have created in the past.
 
 ### [Atlas](http://www.myatlas.me)
 
-Atlas is a personal travel journal that doubles as a social network site for people who love exploring the world. Keep track of how much of the world you've seen while sharing your stories, photos and journeys with your friends .
+Atlas is a personal travel journal that doubles as a social network site for people who love exploring the world. Keep track of how much of the world you've seen while sharing your stories, photos and journeys with your friends.
+
+### [Answers Brand Pages](http://www.answers.com/answers)
+
+As a software engineer for [Answers Corporation](http://www.answers.com), I'm helping to build a new product called Answers Brand Pages (ABP). ABP allow companies to leverage the Q&A on the Answers website to promote their brand and connect directly to interested consumers.
 
 ### [Saurus](https://play.google.com/store/apps/details?id=com.nigu.saurus)
 
