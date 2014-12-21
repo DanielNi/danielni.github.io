@@ -6,7 +6,7 @@ permalink: /projects/
 
 I love being able to create things, and chances are I'm busy building something right now. Here are some of the things I'm either working on right now or have created in the past.
 
-### [Atlas](http://www.myatlas.me)
+### [Atlas](http://www.myatlas.me) 
 
 Atlas is a personal travel journal that doubles as a social network site for people who love exploring the world. Keep track of how much of the world you've seen while sharing your stories, photos and journeys with your friends.
 
