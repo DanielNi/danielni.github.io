@@ -18,6 +18,10 @@ As a software engineer for [Answers Corporation](http://www.answers.com), I'm he
 
 An original Android game, Saurus is a simple test of reflexes and agility. The emphasis is on simple, minimalist design, which includes five colorful themes to play on.
 
+### [WURatings](https://chrome.google.com/webstore/detail/wuratings/mgegapkdpmoijolcleilabpfnlmbclel)
+
+WURatings is a Google Chrome extension that allows students to view ratings from RateMyProfessors.com directly on the Washington University in St. Louis course listings page.
+
 ### [Nothing Was the Soundboard](http://drakesoundboard.appspot.com/)
 
 For Drake fans only. Check out the highlights from his 2013 album Nothing Was the Same by choosing from the many faces of Aubrey Graham. (note: explicit language)
