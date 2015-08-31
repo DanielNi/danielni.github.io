@@ -4,7 +4,7 @@ email: daniel@danielni.me
 author: Daniel Ni
 description: "My personal site."
 baseurl: ""
-url: "http://danielni.me"
+url: "http://danielni.github.io"
 google_analytics: 
 
 # Build settings
