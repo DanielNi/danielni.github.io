@@ -10,9 +10,9 @@ I love being able to create things, and chances are I'm busy building something 
 
 Atlas is a personal travel journal that doubles as a social network site for people who love exploring the world. Keep track of how much of the world you've seen while sharing your stories, photos and journeys with your friends.
 
-### [Amazon Web Services Software Development Kits (SDKs)](https://aws.amazon.com/tools/)
+### [Amazon Web Services SDKs](https://aws.amazon.com/tools/)
 
-As a software engineer intern for [Amazon Web Services](http://aws.amazon.com/) during summer 2015, I worked on the SDKs and Tools team developing features for the AWS SDKs.
+As a software engineer intern for [Amazon Web Services](http://aws.amazon.com/) during summer 2015, I worked on the SDKs and Tools team developing features for the AWS Software Development Kits.
 
 ### [Saurus](https://play.google.com/store/apps/details?id=com.nigu.saurus)
 

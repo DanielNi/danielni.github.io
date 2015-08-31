@@ -3,16 +3,16 @@
   <channel>
     <title>Daniel Ni</title>
     <description>My personal site.</description>
-    <link>http://danielni.me/</link>
-    <atom:link href="http://danielni.me/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://danielni.github.io/</link>
+    <atom:link href="http://danielni.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>The Unremarkable Life of a Software Engineer</title>
         <description>&lt;p&gt;This is a new post.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Jun 2015 17:37:19 -0700</pubDate>
-        <link>http://danielni.me/2015/06/12/the-unremarkable-journey-of-a-software-engineer/</link>
-        <guid isPermaLink="true">http://danielni.me/2015/06/12/the-unremarkable-journey-of-a-software-engineer/</guid>
+        <pubDate>Fri, 12 Jun 2015 19:37:19 -0500</pubDate>
+        <link>http://danielni.github.io/2015/06/12/the-unremarkable-journey-of-a-software-engineer/</link>
+        <guid isPermaLink="true">http://danielni.github.io/2015/06/12/the-unremarkable-journey-of-a-software-engineer/</guid>
       </item>
     
       <item>
@@ -25,9 +25,9 @@
   &lt;li&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        <pubDate>Fri, 12 Jun 2015 17:37:19 -0700</pubDate>
-        <link>http://danielni.me/2015/06/12/the-intern's-guide-to-seattle/</link>
-        <guid isPermaLink="true">http://danielni.me/2015/06/12/the-intern's-guide-to-seattle/</guid>
+        <pubDate>Fri, 12 Jun 2015 19:37:19 -0500</pubDate>
+        <link>http://danielni.github.io/2015/06/12/the-intern's-guide-to-seattle/</link>
+        <guid isPermaLink="true">http://danielni.github.io/2015/06/12/the-intern's-guide-to-seattle/</guid>
       </item>
     
       <item>
@@ -124,9 +124,9 @@
 
 &lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/130704492&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Wed, 17 Dec 2014 23:25:19 -0800</pubDate>
-        <link>http://danielni.me/2014/12/17/top-albums-of-2014/</link>
-        <guid isPermaLink="true">http://danielni.me/2014/12/17/top-albums-of-2014/</guid>
+        <pubDate>Thu, 18 Dec 2014 01:25:19 -0600</pubDate>
+        <link>http://danielni.github.io/2014/12/18/top-albums-of-2014/</link>
+        <guid isPermaLink="true">http://danielni.github.io/2014/12/18/top-albums-of-2014/</guid>
       </item>
     
       <item>
@@ -203,18 +203,18 @@
 &lt;h2 id=&quot;recommendation&quot;&gt;Recommendation&lt;/h2&gt;
 &lt;p&gt;If you just need a simple way to visualize location-based data, use a &lt;strong&gt;Google Charts Geochart&lt;/strong&gt;. If you have a large set of predetermined data to visualize and you want it to be interactive, try using a &lt;strong&gt;Google Map with a Fusion Tables layer&lt;/strong&gt;. If you want a ton of customizability and more types of visualizations you could ever need, give &lt;strong&gt;Kartograph&lt;/strong&gt; a shot. But if you’re like me and all you need are personalized, interactive maps for multiple users, go with &lt;strong&gt;Google Maps API and a GeoJSON data layer&lt;/strong&gt;. &lt;/p&gt;
 </description>
-        <pubDate>Fri, 10 Oct 2014 19:15:19 -0700</pubDate>
-        <link>http://danielni.me/2014/10/10/interactive-countries-and-regions-on-a-javascript-map/</link>
-        <guid isPermaLink="true">http://danielni.me/2014/10/10/interactive-countries-and-regions-on-a-javascript-map/</guid>
+        <pubDate>Fri, 10 Oct 2014 21:15:19 -0500</pubDate>
+        <link>http://danielni.github.io/2014/10/10/interactive-countries-and-regions-on-a-javascript-map/</link>
+        <guid isPermaLink="true">http://danielni.github.io/2014/10/10/interactive-countries-and-regions-on-a-javascript-map/</guid>
       </item>
     
       <item>
         <title>Hello world</title>
-        <description>&lt;p&gt;Hi everyone! Welcome to my new personal site! As of now it’s still a work in progress, but I’ll start posting some more interesting stuff pretty soon. In the meantime, check out some &lt;a href=&quot;http://www.danielni.me/projects&quot;&gt;projects&lt;/a&gt; I’ve done or &lt;a href=&quot;http://www.danielni.me/&quot;&gt;talk to me&lt;/a&gt; about anything!&lt;/p&gt;
+        <description>&lt;p&gt;Hi everyone! Welcome to my new personal site! As of now it’s still a work in progress, but I’ll start posting some more interesting stuff pretty soon. In the meantime, check out some &lt;a href=&quot;http://danielni.github.io/projects&quot;&gt;projects&lt;/a&gt; I’ve done or &lt;a href=&quot;http://danielni.github.io/&quot;&gt;talk to me&lt;/a&gt; about anything!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 09 Sep 2014 13:50:19 -0700</pubDate>
-        <link>http://danielni.me/2014/09/09/hello-world/</link>
-        <guid isPermaLink="true">http://danielni.me/2014/09/09/hello-world/</guid>
+        <pubDate>Tue, 09 Sep 2014 15:50:19 -0500</pubDate>
+        <link>http://danielni.github.io/2014/09/09/hello-world/</link>
+        <guid isPermaLink="true">http://danielni.github.io/2014/09/09/hello-world/</guid>
       </item>
     
   </channel>
