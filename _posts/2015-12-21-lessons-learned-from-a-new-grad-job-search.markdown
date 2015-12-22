@@ -38,9 +38,9 @@ If all else fails, don't be afraid to just apply online at a company's website. 
 
 ###4. Don't get discouraged.
 
-You might often hear about how there's a shortage of talent in the tech industry, and this is probably true, although I don't claim to know enough about the industry to go into detail. However, I do know that new grad positions at the "hot" tech companies are extremely competitive. Unfortunately (though perhaps deservedly so), it seems like every Computer Science major wants to work at Uber, Airbnb, Pinterest, or any of the hip unicorns that are experiencing massive growth right now. While these companies are indeed growing, they obviously can't afford to hire every single new grad, and so they basically get their pick of the best and brightest. If you aren't able to get a job at any of these companies, don't get down on yourself.
+You might often hear about how there's a shortage of talent in the tech industry, and this is probably true, although I don't claim to know enough about the industry to go into detail. However, I do know that new grad positions at the "hot" tech companies are extremely competitive. Unfortunately (though perhaps deservedly so), it seems like every Computer Science major wants to work at any of the hip unicorns that are experiencing massive growth right now. While these companies are indeed growing, they obviously can't afford to hire every single new grad, and so they basically get their pick of the best and brightest. If you aren't able to get a job at any of these companies, don't get down on yourself.
 
-There are hundreds of awesome tech companies in the Bay Area, Seattle and New York. Chances are you haven't even begun to scratch the surface on everything that's out there. Just like college applications, don't just focus on the big names; there are tons of hidden gems out there that may turn out to be the best fit for you. It's not the end of the world if you don't work at the coolest company at the moment. That will almost definitely change within the next few years anyways.
+There are hundreds of awesome tech companies in the Bay Area, Seattle, New York and all over the US. Chances are you haven't even begun to scratch the surface on everything that's out there. Just like college applications, don't just focus on the big names; there are tons of hidden gems out there that may turn out to be the best fit for you. It's not the end of the world if you don't work at the coolest company at the moment. That will almost definitely change within the next few years anyways.
 
 ###5. Don't count on getting feedback.
 
@@ -54,7 +54,7 @@ It's not enough to just practice coding silently in your favorite IDE. Buy a whi
 
 ###7. Relax.
 
-I know it's really tough at first, since it seems like your entire future hinges on you getting that job at Google or Uber. Still, one of the best things you can do to prepare for an interview is just relax. If you're nervous or stressed out, it'll make it that much harder to think clearly during the interview, and as a result you won't perform at your best. 
+I know it's really tough at first, since it seems like your entire future hinges on you getting that job at that awesome tech company. Still, one of the best things you can do to prepare for an interview is just relax. If you're nervous or stressed out, it'll make it that much harder to think clearly during the interview, and as a result you won't perform at your best. 
 
 This does get better with time. In August and September, I was so nervous before (and during) my interviews that I could barely think straight. By the end, a few months later, I was so used to interviewing that it fortunately didn't phase me anymore. I don't think it's a coincidence that I ended up doing better on my later interviews.
 
