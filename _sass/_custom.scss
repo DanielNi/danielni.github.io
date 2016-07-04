@@ -51,6 +51,16 @@ img + em {
   padding-top: 80px;
 }
 
+@media only screen and (max-width: 800px) {
+  img {
+    padding-right: none;
+    padding-bottom: 10px;
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
 .footer-text {
 /*  font-size: 100%;
 */}
