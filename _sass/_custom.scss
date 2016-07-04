@@ -48,16 +48,16 @@ img + em {
 }
 
 #blurb {
-  padding-top: 80px;
+  padding-top: 4em;
 }
 
-@media only screen and (max-width: 800px) {
-  img {
-    padding-right: none;
-    padding-bottom: 10px;
+@media only screen and (max-width: 600px) {
+  #avatar-main {
+    width: 150px;
+    border-radius: 25px;
     float: none;
-    display: block;
-    margin: 0 auto;
+    padding-right: 0em;
+    padding-bottom: 0em;
   }
 }
 
