@@ -1,0 +1,56 @@
+/* Center all images */
+img {
+  display: block;
+  margin: 0 auto;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+/* Image + caption */
+img + em {
+  display: block;
+  text-align: center;
+  font-size: 80%;
+  padding-bottom: 2em;
+}
+
+#regions_div {
+  width: 720px;
+  height: 400px;
+  display: block;
+  margin: 0 auto;
+  padding: 3em;
+}
+
+#regions_div + p {
+  display: block;
+  text-align: center;
+  font-size: 80%;
+  padding-bottom: 2em;
+}
+
+.youtube {
+  display: block;
+  margin: 0 auto;
+}
+
+#avatar-main {
+  float: left;
+  width: 250px;
+  border-radius: 60px;
+  padding-right: 2em;
+}
+
+.avatar-footer {
+  float: left;
+  width: 100px;
+  border-radius: 100px;
+}
+
+#blurb {
+  padding-top: 80px;
+}
+
+.footer-text {
+/*  font-size: 100%;
+*/}

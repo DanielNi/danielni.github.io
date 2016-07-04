@@ -1,0 +1,14 @@
+<footer class="center">
+  <div class="measure">
+ <!--    <img src="{{ site.baseurl }}/images/profile.jpg" alt="Dan Ni" class="avatar-footer" />
+    <div class="footer-text">
+      Dan is a software engineer working at <a href="http://squareup.com">Square</a> in San Francisco. He likes rock climbing, smoothies and emoji 🙏
+    </p> -->
+  </div>
+</footer>
+{% if site.enable_anchorjs %}<!-- AnchorJS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
+<script>
+    anchors.options.visible = 'always';
+    anchors.add('article h2, article h3, article h4, article h5, article h6');
+</script>{% endif %}
