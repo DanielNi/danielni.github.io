@@ -1,9 +1,7 @@
 <footer class="center">
   <div class="measure">
- <!--    <img src="{{ site.baseurl }}/images/profile.jpg" alt="Dan Ni" class="avatar-footer" />
-    <div class="footer-text">
-      Dan is a software engineer working at <a href="http://squareup.com">Square</a> in San Francisco. He likes rock climbing, smoothies and emoji 🙏
-    </p> -->
+    <div id="quote">
+    </div>
   </div>
 </footer>
 {% if site.enable_anchorjs %}<!-- AnchorJS -->
@@ -12,3 +10,69 @@
     anchors.options.visible = 'always';
     anchors.add('article h2, article h3, article h4, article h5, article h6');
 </script>{% endif %}
+
+<script>
+function chooseQuote() {
+  var quotes = [
+    {
+      quotee: "Toru Okada",
+      source: "The Wind-Up Bird Chronicle (1994)",
+      quote:  "In a place far away from anyone or anywhere, I drifted off for a moment."
+    },
+    {
+      quotee: "LCD Soundsystem",
+      source: "All My Friends (2007)",
+      quote:  "If I could see all my friends tonight."
+    },
+    {
+      quotee: "Patricia Franchini",
+      source: "Breathless (1960)",
+      quote:  "When the French say a second, they mean five minutes."
+    },
+    {
+      quotee: "Theodore Twombly",
+      source: "Her (2013)",
+      quote:  "The past is just a story we tell ourselves."
+    },
+    {
+      quotee: "Neutral Milk Hotel",
+      source: "Two-Headed Boy, Pt. 2 (1998)",
+      quote:  "God is a place you will wait for the rest of your life."
+    },
+    {
+      quotee: "Kanye West",
+      source: "Street Lights (2008)",
+      quote:  "Seems like street lights, glowing, happen to be / Just like moments, passing, in front of me / So I hopped in the cab and I paid my fare / See, I know my destination, but I'm just not there."
+    },
+    {
+      quotee: "Omar Little",
+      source: "The Wire (2002)",
+      quote:  "You come at the king, you best not miss."
+    },
+    {
+      quotee: "Jon Hopkins",
+      source: "Immunity (2013)",
+      quote:  "And you said you'd never stop / Coming 'round in the dead of night / You said forever was unkind."
+    },
+    {
+      quotee: "Peggy Olson",
+      source: "Mad Men (2012)",
+      quote:  "PIZZA HOUSE!"
+    },
+    {
+      quotee: "John Keating",
+      source: "Dead Poets Society (1989)",
+      quote:  "No matter what anybody tells you, words and ideas can change the world."
+    },
+    {
+      quotee: "The National",
+      source: "Fake Empire (2007)",
+      quote:  "Let's not try to figure out everything at once."
+    }
+  ]
+  return quotes[Math.floor(Math.random() * quotes.length)]
+}
+
+var quote = chooseQuote();
+document.getElementById("quote").innerHTML = '"' + quote.quote + '" - ' + quote.quotee + ', <i>' + quote.source + '</i>';
+</script>
