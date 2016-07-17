@@ -3,7 +3,7 @@ layout:     post
 title:      Interactive Countries and Regions on a JavaScript Map
 date:       2014-10-11 2:15:19
 summary:    A summary of the possible libraries and frameworks that can be used to visualize geographic data on a map. I had to do a lot of research to find exactly what I needed for my site, so I thought it'd be useful to sum it all up here.
-categories: programming javascript
+categories: tech
 ---
 
 <head>
